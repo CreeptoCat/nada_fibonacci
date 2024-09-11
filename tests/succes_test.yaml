@@ -1,0 +1,6 @@
+---
+program: fibonacci
+inputs:
+  f_num: 75
+expected_outputs:
+  res_fib: 2111485077978050
